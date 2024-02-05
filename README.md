@@ -5,7 +5,7 @@ Projeto desenvolvido no curso Explorer da Rocketseat, Stage 06, de uma aplicaç�
 </p>
 
 <p align="center">
-Veja o resultado <a href="" target="_blank">aqui.</a>
+Veja o resultado <a href="https://rafaverde.github.io/GitFav/" target="_blank">aqui.</a>
 </p>
 
 <p align="center">
@@ -49,4 +49,5 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ by Rocketseat/[rafaverde](https://github.com/rafaverde) :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+
 # GitFav
